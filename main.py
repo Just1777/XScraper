@@ -56,7 +56,7 @@ async def main():
 
     # ---------- Scrapping ----------
     user_id = 1163814248159444992
-    limits = 10
+    limits = 49
     output_dir = "data/raw"
     ensure_dir(output_dir)
 
